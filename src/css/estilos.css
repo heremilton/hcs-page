@@ -152,7 +152,7 @@ main {
  }
 
  .listagem .pokedev:hover {
-     transform: scale(0.7);
+     transform: scale(1.05);
  }
 .listagem .pokedev span {
      padding: 20px;
