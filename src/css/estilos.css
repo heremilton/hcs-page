@@ -2,6 +2,7 @@ body{
      font-family: "Poppins", sans-serif;
      background-image: url("../imagens/background.png");
      background-size: cover;
+     background-position: center;
 }
 
 body::before {
@@ -129,7 +130,7 @@ main {
 
  .listagem .pokedev img {
 
-     width: 25%;
+     width: 10%;
  }
 
  .listagem .pokedev {
